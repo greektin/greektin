@@ -9,7 +9,7 @@
   <a href="https://github.com/greektin" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/greektin/greektin/master/src/icon/github.svg" alt="github" />
   </a>
-  <a href="[https://facebook.com/naipret](https://www.facebook.com/dinhtoangreek?mibextid=ZbWKwL)" target="_blank" rel="noreferrer">
+  <a href="[https://facebook.com/dinhtoangreek](https://www.facebook.com/dinhtoangreek?mibextid=ZbWKwL)" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/greektin/greektin/master/src/icon/facebook.svg" alt="facebook" />
   </a>
   <a href="https://discord.com/invite/ABmNTDpMeJ" target="_blank" rel="noreferrer">
@@ -45,15 +45,5 @@
   </a>
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/naipret/naipret/master/src/icon/vscode.svg" alt="vscode" />
-  </a>
-</p>
-
-<h2>Statistics</h2>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card" target="_blank" rel="noreferrer">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=naipret&count_private=true&show_icons=true&hide_border=true&theme=transparent" alt="naipret's GitHub stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card" target="_blank" rel="noreferrer">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naipret&count_private=true&langs_count=8&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
   </a>
 </p>
