@@ -9,8 +9,8 @@
   <a href="https://github.com/greektin" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/greektin/greektin/master/src/icon/github.svg" alt="github" />
   </a>
-  <a href="[https://facebook.com/dinhtoangreek](https://www.facebook.com/dinhtoangreek?mibextid=ZbWKwL)" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/greektin/greektin/master/src/icon/facebook.svg" alt="facebook" />
+  <a href="https://facebook.com/dinhtoangreek" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/naipret/naipret/master/src/icon/facebook.svg" alt="facebook"/>
   </a>
   <a href="https://discord.com/invite/ABmNTDpMeJ" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/naipret/naipret/master/src/icon/discord.svg" alt="discord" />
