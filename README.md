@@ -1,19 +1,16 @@
-<h1 align="center">Hi 👋, I'm naipret</h1>
+<h1 align="center">Hi 👋, I'm Greektin</h1>
 <h3 align="center">Aspiring coder, always learning :D</h3>
 
 - 🌍 I'm based in Vietnam
-- ✉️ You can contact me at [ngvphu235e@gmail.com](mailto:ngvphu235e@gmail.com)
+- ✉️ You can contact me at [ndtoan653kali@gmail.com](mailto:ndtoan653kali@gmail.com)
 
 <h2 align="left">Socials:</h2>
 <p align="left">
-  <a href="https://github.com/naipret" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/naipret/naipret/master/src/icon/github.svg" alt="github" />
+  <a href="https://github.com/greektin" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/greektin/greektin/master/src/icon/github.svg" alt="github" />
   </a>
-  <a href="https://facebook.com/naipret" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/naipret/naipret/master/src/icon/facebook.svg" alt="facebook" />
-  </a>
-  <a href="https://youtube.com/@naipret" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/naipret/naipret/master/src/icon/youtube.svg" alt="youtube" />
+  <a href="[https://facebook.com/naipret](https://www.facebook.com/dinhtoangreek?mibextid=ZbWKwL)" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/greektin/greektin/master/src/icon/facebook.svg" alt="facebook" />
   </a>
   <a href="https://discord.com/invite/ABmNTDpMeJ" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/naipret/naipret/master/src/icon/discord.svg" alt="discord" />
