@@ -15,6 +15,9 @@
   <a href="https://discord.com/invite/ABmNTDpMeJ" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/naipret/naipret/master/src/icon/discord.svg" alt="discord" />
   </a>
+  <a href="https://www.instagram.com/if.dtoan/" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/greektin/greektin/master](https://github.com/greektin/greektin/blob/main/src/icon/instagram.svg" alt="instagram"
+  </a>
 </p>
 
 <h2 align="left">Skills:</h2>
