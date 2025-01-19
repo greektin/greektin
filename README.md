@@ -16,7 +16,7 @@
     <img align="center" src="https://raw.githubusercontent.com/naipret/naipret/master/src/icon/discord.svg" alt="discord" />
   </a>
   <a href="https://www.instagram.com/if.dtoan/" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/greektin/greektin/refs/heads/main/src/icon/instagram.svg" alt="instagram"
+    <img align="center" src="https://raw.githubusercontent.com/greektin/greektin/refs/heads/main/src/icon/instagram.svg" alt="instagram" />
   </a>
 </p>
 
