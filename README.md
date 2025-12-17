@@ -10,10 +10,10 @@
     <img align="center" src="https://raw.githubusercontent.com/greektin/greektin/master/src/icon/github.svg" alt="github" />
   </a>
   <a href="[https://facebook.com/dinhtoangreek](https://www.facebook.com/greektin)" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/naipret/naipret/master/src/icon/facebook.svg" alt="facebook"/>
+    <img align="center" src="https://raw.githubusercontent.com/greektin/greektin/master/src/icon/facebook.svg" alt="facebook"/>
   </a>
   <a href="https://discord.com/invite/ABmNTDpMeJ" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/naipret/naipret/master/src/icon/discord.svg" alt="discord" />
+    <img align="center" src="https://raw.githubusercontent.com/greektin/greektin/master/src/icon/discord.svg" alt="discord" />
   </a>
   <a href="https://www.instagram.com/if.dtoan/" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/greektin/greektin/refs/heads/main/src/icon/icons8-instagram-40.svg" alt="instagram" />
@@ -23,7 +23,7 @@
 <h2 align="left">Skills:</h2>
 <p align="left">
   <a href="https://learncpp.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/naipret/naipret/master/src/icon/c.svg" alt="c" />
+    <img src="https://raw.githubusercontent.com/greektin/greektin/master/src/icon/c.svg" alt="c" />
   </a>
   <a href="https://learncpp.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/naipret/naipret/master/src/icon/cpp.svg" alt="cpp" />
@@ -59,3 +59,4 @@
     <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greektin&count_private=true&langs_count=8&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
   </a>
 </p>
+
