@@ -26,28 +26,28 @@
     <img src="https://raw.githubusercontent.com/greektin/greektin/master/src/icon/c.svg" alt="c" />
   </a>
   <a href="https://learncpp.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/naipret/naipret/master/src/icon/cpp.svg" alt="cpp" />
+    <img src="https://raw.githubusercontent.com/greektin/greektin/master/src/icon/cpp.svg" alt="cpp" />
   </a>
   <a href="https://python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/naipret/naipret/master/src/icon/python.svg" alt="python" />
+    <img src="https://raw.githubusercontent.com/greektin/greektin/master/src/icon/python.svg" alt="python" />
   </a>
   <a href="https://w3schools.com/html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/naipret/naipret/master/src/icon/html.svg" alt="html" />
+    <img src="https://raw.githubusercontent.com/greektin/greektin/master/src/icon/html.svg" alt="html" />
   </a>
   <a href="https://w3schools.com/css" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/naipret/naipret/master/src/icon/css.svg" alt="css" />
+    <img src="https://raw.githubusercontent.com/greektin/greektin/master/src/icon/css.svg" alt="css" />
   </a>
   <a href="https://git-scm.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/naipret/naipret/master/src/icon/git.svg" alt="git" />
+    <img src="https://raw.githubusercontent.com/greektin/greektin/master/src/icon/git.svg" alt="git" />
   </a>
   <a href="https://linux.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/naipret/naipret/master/src/icon/linux.svg" alt="linux" />
+    <img src="https://raw.githubusercontent.com/greektin/greektin/master/src/icon/linux.svg" alt="linux" />
   </a>
   <a href="https://gnu.org/software/bash" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/naipret/naipret/master/src/icon/bash.svg" alt="bash" />
+    <img src="https://raw.githubusercontent.com/greektin/greektin/master/src/icon/bash.svg" alt="bash" />
   </a>
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/naipret/naipret/master/src/icon/vscode.svg" alt="vscode" />
+    <img src="https://raw.githubusercontent.com/greektin/greektin/master/src/icon/vscode.svg" alt="vscode" />
   </a>
 </p>
 <h2>Statistics</h2>
@@ -59,4 +59,5 @@
     <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greektin&count_private=true&langs_count=8&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
   </a>
 </p>
+
 
