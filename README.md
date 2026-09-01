@@ -53,7 +53,7 @@
 <h2>Statistics</h2>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card" target="_blank" rel="noreferrer">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=greektin&count_private=true&show_icons=true&hide_border=true&theme=transparent" alt="naipret's GitHub stats" />
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=greektin&count_private=true&show_icons=true&hide_border=true&theme=transparent" alt="greektin's GitHub stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card" target="_blank" rel="noreferrer">
     <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greektin&count_private=true&langs_count=8&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
