@@ -15,7 +15,7 @@
   <a href="https://discord.com/invite/ABmNTDpMeJ" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/greektin/greektin/master/src/icon/discord.svg" alt="discord" />
   </a>
-  <a href="https://www.instagram.com/if.dtoan/" target="_blank" rel="noreferrer">
+  <a href="https://www.instagram.com/if.greektin/" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/greektin/greektin/refs/heads/main/src/icon/icons8-instagram-40.svg" alt="instagram" />
   </a>
 </p>
